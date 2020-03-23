@@ -16,7 +16,7 @@
     "url": "https://github.com/zhike-team/zhike-util/issues"
   },
   "dependencies": {
-    "crypto": "0.0.3",
+    "crypto": "1.0.1",
     "request": "^2.78.0",
     "thunkify-wrap": "^1.0.4"
   },
